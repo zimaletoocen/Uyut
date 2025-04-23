@@ -1,0 +1,30 @@
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\bin\Debug\уют!.exe.config
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\bin\Debug\уют!.exe
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\bin\Debug\уют!.pdb
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют!.csproj.AssemblyReference.cache
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.AutorizationForm.resources
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.MainForm.resources
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.Properties.Resources.resources
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют!.csproj.GenerateResource.cache
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют!.csproj.CoreCompileInputs.cache
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют!.exe
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют!.pdb
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.Anketa.resources
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.EditAnketa.resources
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.ProfileForm.resources
+C:\Users\vesna\OneDrive\Desktop\CyberArena ver 1\уют!\уют!\obj\Debug\уют_.RegistrationForm.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\bin\Debug\уют!.exe.config
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\bin\Debug\уют!.exe
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\bin\Debug\уют!.pdb
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют!.csproj.AssemblyReference.cache
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.Anketa.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.AutorizationForm.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.EditAnketa.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.MainForm.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.ProfileForm.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.Properties.Resources.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют_.RegistrationForm.resources
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют!.csproj.GenerateResource.cache
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют!.csproj.CoreCompileInputs.cache
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют!.exe
+C:\Users\vesna\OneDrive\Desktop\уют!\уют!\obj\Debug\уют!.pdb
